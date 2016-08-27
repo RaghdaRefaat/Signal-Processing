@@ -1,0 +1,9 @@
+UpSample: 4 
+
+====Data For Filter======
+Sample Frequency: 256
+Maximum Frequency: 120
+Transition Width: 50
+Stop Attenuation: 50
+=========================
+

@@ -1,0 +1,8 @@
+PassBand Filter:
+Frequency1: 150
+Frequency2: 250
+Sampling Frequency: 1000
+Transition Width: 50
+Stopband Attenuation: 60
+=======================================
+

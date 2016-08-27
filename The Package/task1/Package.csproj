@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47F7DD1B-413F-450D-808F-2DF8C9BCB7E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Package</RootNamespace>
+    <AssemblyName>task1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\..\..\..\..\..\Sources\Z-Graph\ZedGraph_Control_Test\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources">
+      <HintPath>E:\amal\amola\4th year\2nd term\signal processing\labs\zedgraph_dll_v509_459\zedgraph_dll_v5.0.9\de\ZedGraph.resources.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.Web">
+      <HintPath>E:\amal\amola\4th year\2nd term\signal processing\labs\zedgraph_dll_v509_459\zedgraph_dll_v5.0.9\ZedGraph.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConvolutionAndCorrelation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConvolutionAndCorrelation.Designer.cs">
+      <DependentUpon>ConvolutionAndCorrelation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FastFourier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FastFourier.Designer.cs">
+      <DependentUpon>FastFourier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FIR.Designer.cs">
+      <DependentUpon>FIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="First Task.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="First Task.Designer.cs">
+      <DependentUpon>First Task.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fourier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fourier.Designer.cs">
+      <DependentUpon>Fourier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphAmpOrThetaVSsegma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphAmpOrThetaVSsegma.Designer.cs">
+      <DependentUpon>GraphAmpOrThetaVSsegma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphAmpOrThetaVSSegmaFF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphAmpOrThetaVSSegmaFF.Designer.cs">
+      <DependentUpon>GraphAmpOrThetaVSSegmaFF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphOfConvolutionAndCorrelation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphOfConvolutionAndCorrelation.Designer.cs">
+      <DependentUpon>GraphOfConvolutionAndCorrelation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphOfSignalsOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphOfSignalsOperation.Designer.cs">
+      <DependentUpon>GraphOfSignalsOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inverse Fast Fourier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inverse Fast Fourier.Designer.cs">
+      <DependentUpon>Inverse Fast Fourier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InverseFourier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InverseFourier.Designer.cs">
+      <DependentUpon>InverseFourier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quantization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quantization.Designer.cs">
+      <DependentUpon>Quantization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphOfQuantization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphOfQuantization.Designer.cs">
+      <DependentUpon>GraphOfQuantization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignalOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignalOperations.Designer.cs">
+      <DependentUpon>SignalOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start Form.Designer.cs">
+      <DependentUpon>Start Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphSumOfSignals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphSumOfSignals.Designer.cs">
+      <DependentUpon>GraphSumOfSignals.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ConvolutionAndCorrelation.resx">
+      <DependentUpon>ConvolutionAndCorrelation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FastFourier.resx">
+      <DependentUpon>FastFourier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FIR.resx">
+      <DependentUpon>FIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="First Task.resx">
+      <DependentUpon>First Task.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fourier.resx">
+      <DependentUpon>Fourier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphAmpOrThetaVSsegma.resx">
+      <DependentUpon>GraphAmpOrThetaVSsegma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphAmpOrThetaVSSegmaFF.resx">
+      <DependentUpon>GraphAmpOrThetaVSSegmaFF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphOfConvolutionAndCorrelation.resx">
+      <DependentUpon>GraphOfConvolutionAndCorrelation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphOfSignalsOperation.resx">
+      <DependentUpon>GraphOfSignalsOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inverse Fast Fourier.resx">
+      <DependentUpon>Inverse Fast Fourier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InverseFourier.resx">
+      <DependentUpon>InverseFourier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Quantization.resx">
+      <DependentUpon>Quantization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphOfQuantization.resx">
+      <DependentUpon>GraphOfQuantization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignalOperations.resx">
+      <DependentUpon>SignalOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start Form.resx">
+      <DependentUpon>Start Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphSumOfSignals.resx">
+      <DependentUpon>GraphSumOfSignals.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
