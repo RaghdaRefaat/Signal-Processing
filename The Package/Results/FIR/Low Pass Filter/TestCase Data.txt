@@ -1,0 +1,6 @@
+Low Pass Filter:
+Sampling Frequency: 8000
+CutOff Frequency: 1500
+Transition Width: 500
+Stopband Attenuation: 50
+======================================

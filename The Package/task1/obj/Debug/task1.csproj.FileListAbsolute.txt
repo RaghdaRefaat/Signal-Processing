@@ -1,0 +1,27 @@
+E:\amal\amola\4th year\2nd term\signal processing\labs\task1\task1\bin\Debug\task1.exe.config
+D:\My Study\Faculty of Computer and Information sciences\4 Year\Second Semester\Signal Processing\Tasks\task1\task1\bin\Debug\task1.exe.config
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\bin\Debug\task1.exe.config
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\obj\Debug\task1.Form1.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\obj\Debug\task1.Properties.Resources.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\obj\Debug\task1.csproj.GenerateResource.Cache
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\bin\Debug\task1.exe
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\bin\Debug\task1.pdb
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\obj\Debug\task1.exe
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\obj\Debug\task1.pdb
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\task1\task1\bin\Debug\ZedGraph.dll
+C:\Users\hp\Desktop\task1 (3)\task1\task1\bin\Debug\task1.exe.config
+C:\Users\hp\Desktop\task1 (3)\task1\task1\bin\Debug\task1.exe
+C:\Users\hp\Desktop\task1 (3)\task1\task1\bin\Debug\task1.pdb
+C:\Users\hp\Desktop\task1 (3)\task1\task1\obj\Debug\task1.Form1.resources
+C:\Users\hp\Desktop\task1 (3)\task1\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\hp\Desktop\task1 (3)\task1\task1\obj\Debug\task1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\task1 (3)\task1\task1\obj\Debug\task1.exe
+C:\Users\hp\Desktop\task1 (3)\task1\task1\obj\Debug\task1.pdb
+C:\Users\hp\Desktop\task1 (3)\task1\task1\bin\Debug\ZedGraph.resources.dll
+C:\Users\hp\Desktop\task1 (3)\task1\task1\bin\Debug\ZedGraph.Web.dll
+C:\Users\hp\Desktop\task1 (3)\task1\task1\bin\Debug\ZedGraph.Web.xml
+C:\Users\hp\Desktop\task1 (3)\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\bin\Debug\task1.exe.config
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\task1.exe
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\task1.pdb

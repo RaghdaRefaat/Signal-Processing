@@ -1,0 +1,69 @@
+C:\Users\hp\Desktop\The-Package\The Package\task1\bin\Debug\task1.exe.config
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.exe
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.pdb
+C:\Users\hp\Desktop\The-Package\The Package\task1\bin\Debug\task1.exe
+C:\Users\hp\Desktop\The-Package\The Package\task1\bin\Debug\task1.pdb
+C:\Users\hp\Desktop\The-Package\The Package\task1\bin\Debug\ZedGraph.resources.dll
+C:\Users\hp\Desktop\The-Package\The Package\task1\bin\Debug\ZedGraph.Web.dll
+C:\Users\hp\Desktop\The-Package\The Package\task1\bin\Debug\ZedGraph.Web.xml
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\Package.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.FirstTask.resources
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.Start_Form.resources
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.SumOfSignals.resources
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\Package.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\The-Package\The Package\task1\obj\Debug\task1.Quantization.resources
+C:\Users\hp1\Downloads\The-Package\The Package\task1\bin\Debug\task1.exe.config
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.exe
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.pdb
+C:\Users\hp1\Downloads\The-Package\The Package\task1\bin\Debug\task1.exe
+C:\Users\hp1\Downloads\The-Package\The Package\task1\bin\Debug\task1.pdb
+C:\Users\hp1\Downloads\The-Package\The Package\task1\bin\Debug\ZedGraph.Web.xml
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\Package.csprojResolveAssemblyReference.cache
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.FirstTask.resources
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.Quantization.resources
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.Start_Form.resources
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\task1.SumOfSignals.resources
+C:\Users\hp1\Downloads\The-Package\The Package\task1\obj\Debug\Package.csproj.GenerateResource.Cache
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\bin\Debug\task1.exe.config
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.exe
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.pdb
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\bin\Debug\task1.exe
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\bin\Debug\task1.pdb
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\bin\Debug\ZedGraph.Web.xml
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\Package.csprojResolveAssemblyReference.cache
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.FirstTask.resources
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.Quantization.resources
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.Start_Form.resources
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\task1.SumOfSignals.resources
+C:\Users\hp1\Downloads\The-Package1\The Package\task1\obj\Debug\Package.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\The-Package-amal\The-Package\The Package\task1\bin\Debug\task1.exe.config
+C:\Users\hp\Desktop\The-Package-amal\The-Package\The Package\task1\obj\Debug\task1.exe
+C:\Users\hp\Desktop\The-Package-amal\The-Package\The Package\task1\obj\Debug\task1.pdb
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\bin\Debug\task1.exe.config
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\bin\Debug\task1.exe
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\bin\Debug\task1.pdb
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\bin\Debug\ZedGraph.dll
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.csprojResolveAssemblyReference.cache
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.ConvolutionAndCorrelation.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.FastFourier.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.FIR.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.FirstTask.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.Fourier.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.GraphAmpOrThetaVSsegma.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.GraphAmpOrThetaVSSegmaFF.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.GraphOfConvolutionAndCorrelation.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.GraphOfSignalsOperation.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.Inverse_Fast_Fourier.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.InverseFourier.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.Properties.Resources.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.Quantization.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.GraphOfQuantization.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.SignalOperations.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.Start_Form.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.GraphSumOfSignals.resources
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\Package.csproj.GenerateResource.Cache
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\task1.exe
+D:\My Collage's Stages\Fourth Year\Second Semester\Signal Processing\Labs\The Package\task1\obj\Debug\task1.pdb
